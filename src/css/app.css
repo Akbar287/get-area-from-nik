@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Poppins", sans-serif;
+  src: url("./fonts/Poppins-Regular.ttf");
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+q-container {
+  margin-left: 20px;
+  margin-right: 20px;
+}
